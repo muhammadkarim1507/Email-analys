@@ -1,0 +1,6 @@
+{
+  "name": "Email Analyzer",
+  "description": "Gmail xabarlarini tahlil qiluvchi, muhimlik darajasini aniqlovchi va xulosa beruvchi AI vositasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
